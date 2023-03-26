@@ -1,0 +1,5 @@
+DUMMY_PATH/RECITATION324_321.wav|この古風な酒瓢は故郷のものだ。
+DUMMY_PATH/RECITATION324_322.wav|そのほつれが腐敗しているというのは、誇張した表現だと思う。
+DUMMY_PATH/RECITATION324_323.wav|その映画の出演者である彼が、主犯である可能性はフィフティーフィフティーだ。
+DUMMY_PATH/RECITATION324_324.wav|チュクンの波長は、パツンと共通している。
+DUMMY_PATH/EMOTION100_100.wav|ラーテャン。
