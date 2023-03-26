@@ -2,7 +2,12 @@
 
 このレポジトリは、 日本語対応を行い、44100Hzの音声を学習および出力できるように編集した[MB-iSTFT-VITS](https://github.com/MasayaKawamura/MB-iSTFT-VITS)です。44100Hz化した際、pseudo-QMFを用いた合成では定周波ノイズが発生したため、合成フィルタを学習パラメータにすることで柔軟に対応できるようにしたMS-iSTFT-VITS実装のみを対象にしています。
 
+
+## サンプル出力 : [JSUT 10k step sample](https://drive.google.com/file/d/1gYdfn17cW_8NwuQW-ZgraIdV2LZB5FZF/)
+
 <img src="./fig/proposed_model.png" width="100%">
+
+
 
 ## 1. 環境構築
 
